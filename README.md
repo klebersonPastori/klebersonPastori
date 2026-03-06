@@ -41,5 +41,7 @@ Sou um entusiasta de tecnologia em transição de carreira, unindo a visão estr
 
 [![E-mail](https://img.shields.io/badge/Email-kleber--pastori%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber-pastori@hotmail.com)
 
+[![Portfolio Web](https://img.shields.io/badge/Portfólio_Web-AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](http://meu.curriculo.kleber.s3-website-us-east-1.amazonaws.com)
+
 ---
 > *"A tecnologia é a ferramenta, a lógica é o caminho e a segurança é a prioridade."*
