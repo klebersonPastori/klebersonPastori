@@ -30,10 +30,10 @@ Sou um entusiasta de tecnologia em transição de carreira, unindo a visão estr
 
 ### 📂 Projetos em Destaque
 
-* 🏢 **[Active Directory na AWS]([link-do-seu-repo](https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Laboratório prático provisionando um Windows Server (EC2) como Domain Controller para estudos de segurança e IAM.
-* 🛠️ **[Python Network Tools (GUI)]([link-do-seu-repo](https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Aplicativo desktop construído com PySide6 para execução visual de comandos de rede e troubleshooting.
-* 🛡️ **[Incident Report Analysis (DDoS)]([link-do-seu-repo](https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Documentação e resposta a um incidente de ICMP Flood estruturada no framework do NIST.
-* 🔍 **[Malicious File Risk Analyzer]([link-do-seu-repo](https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Scanner via CLI em Python para identificação rápida de extensões suspeitas em diretórios locais.
+* 🏢 **[Active Directory na AWS]((https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Laboratório prático provisionando um Windows Server (EC2) como Domain Controller para estudos de segurança e IAM.
+* 🛠️ **[Python Network Tools (GUI)]((https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Aplicativo desktop construído com PySide6 para execução visual de comandos de rede e troubleshooting.
+* 🛡️ **[Incident Report Analysis (DDoS)]((https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Documentação e resposta a um incidente de ICMP Flood estruturada no framework do NIST.
+* 🔍 **[Malicious File Risk Analyzer]((https://github.com/klebersonPastori/meus-projetos-praticos.git)):** Scanner via CLI em Python para identificação rápida de extensões suspeitas em diretórios locais.
 
 ### 📫 Vamos nos conectar?
 
