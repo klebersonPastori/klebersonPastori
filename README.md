@@ -37,8 +37,8 @@ Sou um entusiasta de tecnologia em transição de carreira, unindo a visão estr
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kleberson-pastori-5b11b3119)
-[![Portfolio Web](https://img.shields.io/badge/Portfólio_Web-AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](http://meu.curriculo.kleber.s3-website-us-east-1.amazonaws.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberson-pastori-5b11b3119)
+
 [![E-mail](https://img.shields.io/badge/Email-kleber--pastori%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber-pastori@hotmail.com)
 
 ---
