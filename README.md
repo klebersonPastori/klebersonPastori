@@ -1,53 +1,45 @@
 # Olá, eu sou o Kleberson Pastori! 👋
 
-### Engenheiro de Software | Cybersecurity Intern na Hyundai AutoEver | Python & Web Dev
+**Estagiário em Cibersegurança (Blue Team) @ Hyundai AutoEver | Estudante de Engenharia de Software | Python & AWS**
 
-Sou um entusiasta de tecnologia em transição de carreira, unindo **visão estratégica de gestão** com a execução técnica em **Engenharia de Software**. Atualmente, atuo na linha de frente da **Cibersegurança**, utilizando automação para fortalecer perímetros digitais e infraestruturas de rede.
+Sou um entusiasta de tecnologia em transição de carreira, unindo a visão estratégica de ex-gerente geral com a execução técnica em Engenharia de Software. Atualmente, atuo na linha de frente da Cibersegurança corporativa, focando em operações de defesa, administração de redes e criação de automações para fortalecer perímetros digitais.
 
----
+### 🚀 Sobre Mim
 
-## 🚀 Sobre Mim
-* 🎓 Cursando **Engenharia de Software** (3º semestre) na Estácio.
-* 🛡️ Atuando como **Estagiário de Cibersegurança** na Hyundai AutoEver, com foco em Firewall, Proxy e automação com Python.
-* 🏃‍♂️ Ex-Gerente Geral e Bacharel em Ed. Física, trazendo **soft skills** sólidas em liderança e foco em resultados para o mundo tech.
-* 📍 Baseado em Piracicaba - SP.
+* 🛡️ **Cibersegurança:** Atuo no gerenciamento de firewalls (FMC), administração de VPNs, análise de tráfego (TCP/IP e OSI) e segurança de endpoints.
+* ⚙️ **Automação (Blue Team):** Desenvolvo scripts em Python para acelerar o *troubleshooting* de redes, análise de logs e consumo de APIs REST.
+* 🎓 **Acadêmico:** Cursando Engenharia de Software (3º semestre) na Estácio.
+* 📜 **Certificação:** Possuo o *Google Cybersecurity Professional Certificate*.
+* 🐧 **Entusiasta Open Source:** Usuário e explorador do ecossistema Linux.
+* 📍 Baseado em Piracicaba - SP, Brasil.
 
----
+### 🛠️ Minha Caixa de Ferramentas (Tech Stack)
 
-## 🛠️ Competências Técnicas (Hard Skills)
+**Segurança & Infraestrutura:** ![Cibersegurança](https://img.shields.io/badge/Blue_Team-Security-0052CC?style=for-the-badge&logo=security)
+![Firewalls](https://img.shields.io/badge/Firewalls_&_VPN-FMC-red?style=for-the-badge)
+![Windows Server](https://img.shields.io/badge/Windows_Server-AD-0078D6?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 💻 Desenvolvimento & Programação
-* **Linguagens:** Python (Intermediário - focado em automação), JavaScript, HTML5, CSS3.
-* **Conhecimentos Iniciais:** Linguagens C e C#.
-* **Cloud & DevOps:** Hospedagem e deploy via AWS (S3, Amplify) e versionamento com Git/GitHub.
+**Cloud & Redes:** ![AWS](https://img.shields.io/badge/AWS-EC2_|_S3-232F3E?style=for-the-badge&logo=amazon-aws)
+![TCP/IP](https://img.shields.io/badge/Networking-TCP/IP_|_OSI-lightgrey?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Packet_Analysis-Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 
-### 🛡️ Cibersegurança & Infraestrutura
-* **Segurança de Rede:** Administração de Firewall e Proxy.
-* **Automação:** Criação de scripts em Python para proteção de dispositivos e processos.
-* **Hardware:** Manutenção avançada de hardware e sistemas Windows/Linux (Mint).
+**Desenvolvimento & Automação:** ![Python](https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Development-239120?style=for-the-badge&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-Front--End-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🤖 Inteligência Artificial
-* Aplicação de **IA de forma estratégica** para otimização de fluxo de trabalho e lógica de programação.
+### 📂 Projetos em Destaque
 
----
+* 🏢 **[Active Directory na AWS](link-do-seu-repo):** Laboratório prático provisionando um Windows Server (EC2) como Domain Controller para estudos de segurança e IAM.
+* 🛠️ **[Python Network Tools (GUI)](link-do-seu-repo):** Aplicativo desktop construído com PySide6 para execução visual de comandos de rede e troubleshooting.
+* 🛡️ **[Incident Report Analysis (DDoS)](link-do-seu-repo):** Documentação e resposta a um incidente de ICMP Flood estruturada no framework do NIST.
+* 🔍 **[Malicious File Risk Analyzer](link-do-seu-repo):** Scanner via CLI em Python para identificação rápida de extensões suspeitas em diretórios locais.
 
-## 🤝 Competências Comportamentais (Soft Skills)
-* **Visão Estratégica:** Experiência consolidada em gestão administrativa e financeira.
-* **Resolução de Problemas:** Foco em soluções práticas e eficientes sob pressão.
-* **Comunicação e Empatia:** Habilidade desenvolvida em anos de liderança de equipes e atendimento.
-* **Aprendizado Contínuo:** Curiosidade nata e rápida adaptação a novos desafios tecnológicos.
+### 📫 Vamos nos conectar?
 
----
-
-## 📂 Principal projeto em Destaque
-* 📄 **[Tech Portfolio Web](http://meu.curriculo.kleber.s3-website-us-east-1.amazonaws.com):** Meu currículo interativo hospedado via AWS S3.
-
----
-
-## 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberson-pastori-5b11b3119)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519982260199)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber-pastori@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberson-pastori)
+[![Portfolio Web](https://img.shields.io/badge/Portfólio_Web-AWS_S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](http://meu.curriculo.kleber.s3-website-us-east-1.amazonaws.com)
+[![E-mail](https://img.shields.io/badge/Email-kleber--pastori%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber-pastori@hotmail.com)
 
 ---
-*"A tecnologia é a ferramenta, a lógica é o caminho e a segurança é a prioridade."*
+> *"A tecnologia é a ferramenta, a lógica é o caminho e a segurança é a prioridade."*
