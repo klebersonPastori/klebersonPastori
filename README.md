@@ -143,8 +143,6 @@ Análise e resposta a incidente de **DDoS/ICMP Flood** com plano de mitigação 
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/klebersonPastori/klebersonPastori/output/github-contribution-grid-snake-dark.svg)
-
 </div>
 
 ---
