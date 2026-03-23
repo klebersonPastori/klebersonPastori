@@ -149,6 +149,7 @@ Análise e resposta a incidente de **DDoS/ICMP Flood** com plano de mitigação 
 
 ## `$ cat certifications.txt`
 
+- 💻 **DEVOPS & Agile Culture** - FIAP (2026)
 - 🏆 **Google Cybersecurity Professional Certificate** — Coursera / Google (2025)
 - ☁️ **AWS Cloud Practitioner (CLF-02)** — Preparatório concluído
 - 🐍 **Python Fundamentals & Cibersegurança com Python** — Santander / DIO
