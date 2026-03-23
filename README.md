@@ -43,7 +43,7 @@ class KlebersonPastori:
 
 ## `$ cat sobre_mim.txt`
 
-- 🛡️ **Cibersegurança:** Gerenciamento de firewalls NGFW via FMC, administração de VPNs, análise de tráfego TCP/IP e OSI, segurança de endpoints
+- 🛡️ **Cibersegurança:** Gerenciamento de firewalls NGFW via FMC, VPNs, análise de tráfego TCP/IP e OSI, segurança de endpoints, focando em DEV/SEC/OPS.
 - ⚙️ **Automação Blue Team:** Scripts Python para troubleshooting de redes, análise de logs e consumo de APIs REST
 - ☁️ **Cloud:** AWS EC2, S3, Lambda, Amplify — infraestrutura segura e escalável
 - 🎓 **Acadêmico:** Cursando Engenharia de Software (3º semestre) na Estácio
