@@ -32,10 +32,10 @@ class KlebersonPastori:
     role       = "Cybersecurity Analyst | DEV/SEC/OPS"
     company    = "Hyundai AutoEver"
     location   = "Piracicaba, SP — Brasil"
-    focus      = ["NGFW/FMC", "Cloud Security", "SOC Operations", "Python Automation"]
-    studying   = ["AWS Solutions Architect", "CompTIA Security+", "Eng. de Software @ Estácio"]
+    focus      = ["Software Engenieer", "Cloud Security", "SOC Operations", "Python Automation"]
+    studying   = ["AWS Solutions Architect", "Eng. de Software @ Estácio"]
     cert       = "Google Cybersecurity Professional (Coursera, 2025)"
-    open_to    = "Oportunidades como Analista de Cibersegurança Jr."
+    open_to    = "Oportunidades como Analista de cybersecurity e DEV."
     motto      = "A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."
 ```
 
