@@ -23,13 +23,13 @@
 
 ## `$ whoami`
 
-Olá! Sou o **Kleberson Pastori**, profissional de Cibersegurança em transição de carreira — unindo a **visão estratégica de ex-gerente geral** com a execução técnica em segurança defensiva e engenharia de software.
+Olá! Sou o **Kleberson Pastori**, profissionalizando em Cibersegurança. Em transição de carreira — unindo a **visão estratégica de ex-gerente geral** com a execução técnica em segurança defensiva e engenharia de software. Focando em DEV/SEC/OPS.
 
 Atualmente atuo na linha de frente da cibersegurança corporativa na **Hyundai AutoEver**, em operações de defesa (Blue Team), administração de redes e automações para fortalecer perímetros digitais. Focando e estudando para atuar em DEV/SEC/OPS.
 
 ```python
 class KlebersonPastori:
-    role       = "Cybersecurity Analyst | Blue Team"
+    role       = "Cybersecurity Analyst | DEV/SEC/OPS"
     company    = "Hyundai AutoEver"
     location   = "Piracicaba, SP — Brasil"
     focus      = ["NGFW/FMC", "Cloud Security", "SOC Operations", "Python Automation"]
