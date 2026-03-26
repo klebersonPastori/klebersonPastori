@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst+%7C;Cloud+Security+%7C+AWS;Python+Automation+%7C+DevSecOps;Always+learning%2C+always+defending." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst+;Cloud+Security+%7C+AWS;Python+Automation+%7C+DevSecOps;Always+learning%2C+always+defending." alt="Typing SVG" />
 
 <br/>
 
