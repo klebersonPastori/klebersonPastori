@@ -1,127 +1,144 @@
-<div align="center">
-
-```text
+```
 ██╗  ██╗██╗     ███████╗██████╗ ███████╗██████╗ ███████╗ ██████╗ ███╗   ██╗
 ██║ ██╔╝██║     ██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║
 █████╔╝ ██║     █████╗  ██████╔╝███████╗██║  ██║███████╗██║   ██║██╔██╗ ██║
 ██╔═██╗ ██║     ██╔══╝  ██╔══██╗╚════██║██║  ██║╚════██║██║   ██║██║╚██╗██║
 ██║  ██╗███████╗███████╗██████╔╝███████║██████╔╝███████║╚██████╔╝██║ ╚████║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+```
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D00FF88%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DSoftware%2BEngineer%2B%257C%2BDevSecOps%3BCloud%2BSecurity%2B%257C%2BAWS%3BPython%2BAutomation%2B%257C%2BBlue%2BTeam%3BBuilding%2Bsecure%2Bapplications." alt="Typing SVG" />
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+DevSecOps;Cloud+Security+%7C+AWS;Python+Automation+%7C+Blue+Team;Building+secure+applications." alt="Typing SVG" />
 
 </div>
 
-$ whoami
-Olá! Sou o Kleberson Pastori, profissionalizando minha paixão por Engenharia de Software e Segurança. Em transição de carreira contínua — unindo a visão estratégica de ex-gerente geral com a execução técnica em desenvolvimento seguro e infraestrutura.
+---
 
-Atualmente, meu foco absoluto é atuar na cultura DevSecOps, construindo e protegendo aplicações corporativas. Utilizo a mentalidade de defesa (Blue Team) para arquitetar automações em Python, integrar segurança em esteiras de desenvolvimento e fortalecer perímetros digitais, especialmente em ambientes Cloud.
+### `$ whoami`
 
+Olá! Sou o **Kleberson Pastori**, profissionalizando minha paixão por Engenharia de Software e Segurança.  
+Em transição de carreira contínua — unindo visão estratégica com execução técnica em desenvolvimento seguro e infraestrutura.
+
+Foco em **DevSecOps**, integrando segurança no ciclo de desenvolvimento e fortalecendo ambientes cloud.
+
+```python
 class KlebersonPastori:
     role       = "Software Engineer | DevSecOps"
     location   = "Piracicaba, SP — Brasil"
     focus      = ["DevSecOps", "Software Engineering", "Python Automation", "Cloud Security"]
     studying   = ["Engenharia de Software @ Estácio", "AWS Solutions Architect"]
     cert       = "Google Cybersecurity Professional (Coursera, 2025)"
-    status     = "Aberto a novos desafios em DevSecOps e Desenvolvimento"
+    status     = "Aberto a novos desafios"
     motto      = "A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."
+```
 
-$ cat sobre_mim.txt
-⚙️ Desenvolvimento & DevSecOps: Criação de ferramentas de segurança (CLI), integração de APIs, automação de rotinas de SOC e análise de código com Python.
+---
 
-🛡️ Segurança Defensiva: Background prático em análise de tráfego, gerenciamento de firewalls (NGFW), VPNs e resposta a incidentes.
+### `$ cat sobre_mim.txt`
 
-☁️ Cloud: Infraestrutura escalável e segura na AWS (EC2, S3, Lambda, Amplify).
+- ⚙️ **Dev & DevSecOps:** Automação, APIs, ferramentas CLI e análise de código  
+- 🛡️ **Segurança:** Firewall, VPN, análise de tráfego, resposta a incidentes  
+- ☁️ **Cloud:** AWS (EC2, S3, Lambda, Amplify)  
+- 🎓 Engenharia de Software — Estácio  
+- 📜 Google Cybersecurity Professional Certificate  
+- 🐧 Linux / Open Source  
+- 📍 Piracicaba – SP  
 
-🎓 Acadêmico: Cursando Engenharia de Software na Estácio.
+---
 
-📜 Certificação: Google Cybersecurity Professional Certificate (2025).
+### `$ cat skills.txt`
 
-🐧 Entusiasta Open Source: Usuário e explorador do ecossistema Linux.
-
-📍 Baseado em Piracicaba – SP, Brasil.
-
-$ cat skills.txt
 <div align="center">
 
-⚙️ Dev & Automation
-
-🔐 Security & DevSecOps
-
-☁️ Cloud & Infrastructure
+⚙️ Dev & Automation  
+🔐 Security & DevSecOps  
+☁️ Cloud & Infrastructure  
 
 </div>
 
-$ ls projetos/
-🛡️ CSIRT WebSec Phishing Scanner
-Ferramenta robusta via CLI desenvolvida em Python para triagem de URLs suspeitas e Threat Intelligence. Conta com análise de homoglyphs, validação de certificados TLS, extração de heurísticas JavaScript e integração com a API do VirusTotal. Exporta relatórios executivos (HTML/JSON).
+---
 
-Python DevSecOps Automation Threat Intel
+### `$ ls projetos/`
+
+#### 🛡️ CSIRT WebSec Phishing Scanner
+Ferramenta CLI em Python para análise de URLs suspeitas, com:
+- Heurísticas JavaScript  
+- Validação TLS  
+- Integração VirusTotal  
+- Relatórios HTML/JSON  
+
+`Python • DevSecOps • Threat Intel`
+
+---
 
 <table>
 <tr>
 <td width="50%">
 
-🏢 Active Directory Lab na AWS
-Laboratório em nuvem com EC2 + Windows Server como Domain Controller, DNS interno, usuários e GPOs para estudo de infraestrutura e identidade.
+### 🏢 Active Directory Lab na AWS
+Infraestrutura com EC2 + Windows Server, AD, DNS e GPOs  
 
-AWS EC2 Windows Server Cloud Security
+`AWS • Cloud • Identity`
 
 </td>
 <td width="50%">
 
-🔍 Cyber Malicious File Analyzer
-Scanner CLI em Python para varredura de diretórios, identificando extensões potencialmente maliciosas como apoio a análises forenses.
+### 🔍 Cyber Malicious File Analyzer
+Scanner CLI para detecção de arquivos suspeitos  
 
-Python CLI Threat Detection
+`Python • Forense`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-🖥️ Network Tools GUI
-Aplicativo desktop em Python + PySide6 para execução visual e assíncrona de comandos de rede (Ping, Tracert, Netstat, NSLookup).
+### 🖥️ Network Tools GUI
+Ferramenta desktop com PySide6 para análise de rede  
 
-Python PySide6 Software Engineering
+`Python • GUI • Networking`
 
 </td>
 <td width="50%">
 
-📋 Incident Report — NIST CSF
-Análise e resposta a incidente de DDoS/ICMP Flood com plano de mitigação estruturado segundo o framework global do NIST.
+### 📋 Incident Report — NIST CSF
+Resposta estruturada a ataque DDoS baseada no NIST  
 
-NIST CSF Incident Response Blue Team
+`Blue Team • Incident Response`
 
 </td>
 </tr>
 </table>
 
-$ cat stats.sh
+---
+
+### `$ cat stats.sh`
+
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=klebersonPastori&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9" />
+
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebersonPastori&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
 
 </div>
 
-$ cat certifications.txt
-💻 DEVOPS & Agile Culture - FIAP (2026)
+---
 
-🏆 Google Cybersecurity Professional Certificate — Coursera / Google (2025)
+### `$ cat certifications.txt`
 
-☁️ AWS Cloud Practitioner (CLF-02) — Preparatório concluído
+- 💻 DevOps & Agile Culture — FIAP (2026)  
+- 🏆 Google Cybersecurity Professional Certificate (2025)  
+- ☁️ AWS Cloud Practitioner — Preparatório concluído  
+- 🐍 Python & Cibersegurança — DIO  
+- 🌐 Redes TCP/IP — Teoria e prática  
+- 🤖 IA & Prompt Engineering — DIO  
 
-🐍 Python Fundamentals & Cibersegurança com Python — Santander / DIO
-
-🌐 Fundamentos de Redes TCP/IP — Teoria e Prática
-
-🤖 IA Aplicada & Prompt Engineering — DIO
+---
 
 <div align="center">
 
-"A tecnologia é a ferramenta, a lógica é o caminho e a segurança é a prioridade."
+**"A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."**
 
 </div>
-
-http://googleusercontent.com/interactive_content_block/0
