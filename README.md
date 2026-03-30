@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+DevSecOps;Cloud+Security+%7C+AWS;Python+Automation+%7C+Blue+Team;Building+secure+applications." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+DevSecOps;Cloud+Security+%7C+AWS;Python+Automation+%7C+Blue+Team;Building+secure+applications." />
 
 </div>
 
@@ -18,9 +18,9 @@
 ### `$ whoami`
 
 Olá! Sou o **Kleberson Pastori**, profissionalizando minha paixão por Engenharia de Software e Segurança.  
-Em transição de carreira contínua — unindo visão estratégica com execução técnica em desenvolvimento seguro e infraestrutura.
+Em transição de carreira — unindo visão estratégica com execução técnica.
 
-Foco em **DevSecOps**, integrando segurança no ciclo de desenvolvimento e fortalecendo ambientes cloud.
+Foco em **DevSecOps**, integrando segurança no ciclo de desenvolvimento e ambientes cloud.
 
 ```python
 class KlebersonPastori:
@@ -28,8 +28,8 @@ class KlebersonPastori:
     location   = "Piracicaba, SP — Brasil"
     focus      = ["DevSecOps", "Software Engineering", "Python Automation", "Cloud Security"]
     studying   = ["Engenharia de Software @ Estácio", "AWS Solutions Architect"]
-    cert       = "Google Cybersecurity Professional (Coursera, 2025)"
-    status     = "Aberto a novos desafios"
+    cert       = "Google Cybersecurity Professional (2025)"
+    status     = "Aberto a oportunidades"
     motto      = "A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."
 ```
 
@@ -37,13 +37,12 @@ class KlebersonPastori:
 
 ### `$ cat sobre_mim.txt`
 
-- ⚙️ **Dev & DevSecOps:** Automação, APIs, ferramentas CLI e análise de código  
-- 🛡️ **Segurança:** Firewall, VPN, análise de tráfego, resposta a incidentes  
-- ☁️ **Cloud:** AWS (EC2, S3, Lambda, Amplify)  
+- ⚙️ Dev & DevSecOps: automação, APIs, CLI tools  
+- 🛡️ Segurança: firewall, VPN, análise de tráfego, incident response  
+- ☁️ Cloud: AWS (EC2, S3, Lambda)  
 - 🎓 Engenharia de Software — Estácio  
-- 📜 Google Cybersecurity Professional Certificate  
+- 📜 Google Cybersecurity Professional  
 - 🐧 Linux / Open Source  
-- 📍 Piracicaba – SP  
 
 ---
 
@@ -62,10 +61,10 @@ class KlebersonPastori:
 ### `$ ls projetos/`
 
 #### 🛡️ CSIRT WebSec Phishing Scanner
-Ferramenta CLI em Python para análise de URLs suspeitas, com:
-- Heurísticas JavaScript  
-- Validação TLS  
-- Integração VirusTotal  
+Ferramenta CLI em Python para análise de URLs suspeitas:
+- Heurísticas JS  
+- TLS validation  
+- VirusTotal API  
 - Relatórios HTML/JSON  
 
 `Python • DevSecOps • Threat Intel`
@@ -77,7 +76,7 @@ Ferramenta CLI em Python para análise de URLs suspeitas, com:
 <td width="50%">
 
 ### 🏢 Active Directory Lab na AWS
-Infraestrutura com EC2 + Windows Server, AD, DNS e GPOs  
+Infraestrutura com AD, DNS e GPO  
 
 `AWS • Cloud • Identity`
 
@@ -85,9 +84,9 @@ Infraestrutura com EC2 + Windows Server, AD, DNS e GPOs
 <td width="50%">
 
 ### 🔍 Cyber Malicious File Analyzer
-Scanner CLI para detecção de arquivos suspeitos  
+Scanner CLI para análise forense  
 
-`Python • Forense`
+`Python • Security`
 
 </td>
 </tr>
@@ -96,17 +95,17 @@ Scanner CLI para detecção de arquivos suspeitos
 <td width="50%">
 
 ### 🖥️ Network Tools GUI
-Ferramenta desktop com PySide6 para análise de rede  
+App desktop com PySide6  
 
-`Python • GUI • Networking`
+`Python • GUI`
 
 </td>
 <td width="50%">
 
 ### 📋 Incident Report — NIST CSF
-Resposta estruturada a ataque DDoS baseada no NIST  
+Resposta a DDoS estruturada  
 
-`Blue Team • Incident Response`
+`Blue Team`
 
 </td>
 </tr>
@@ -118,9 +117,9 @@ Resposta estruturada a ataque DDoS baseada no NIST
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=klebersonPastori&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=klebersonPastori&show_icons=true&theme=chartreuse-dark" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebersonPastori&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebersonPastori&layout=compact&theme=chartreuse-dark" />
 
 </div>
 
@@ -128,12 +127,12 @@ Resposta estruturada a ataque DDoS baseada no NIST
 
 ### `$ cat certifications.txt`
 
-- 💻 DevOps & Agile Culture — FIAP (2026)  
-- 🏆 Google Cybersecurity Professional Certificate (2025)  
-- ☁️ AWS Cloud Practitioner — Preparatório concluído  
-- 🐍 Python & Cibersegurança — DIO  
-- 🌐 Redes TCP/IP — Teoria e prática  
-- 🤖 IA & Prompt Engineering — DIO  
+- 💻 DevOps & Agile — FIAP (2026)  
+- 🏆 Google Cybersecurity Professional (2025)  
+- ☁️ AWS Cloud Practitioner — estudo concluído  
+- 🐍 Python & Cybersecurity — DIO  
+- 🌐 Redes TCP/IP  
+- 🤖 IA & Prompt Engineering  
 
 ---
 
