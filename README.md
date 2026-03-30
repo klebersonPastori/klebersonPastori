@@ -1,4 +1,3 @@
-Markdown
 <div align="center">
 
 ```text
@@ -8,6 +7,7 @@ Markdown
 ██╔═██╗ ██║     ██╔══╝  ██╔══██╗╚════██║██║  ██║╚════██║██║   ██║██║╚██╗██║
 ██║  ██╗███████╗███████╗██████╔╝███████║██████╔╝███████║╚██████╔╝██║ ╚████║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
+
 <img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D00FF88%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DSoftware%2BEngineer%2B%257C%2BDevSecOps%3BCloud%2BSecurity%2B%257C%2BAWS%3BPython%2BAutomation%2B%257C%2BBlue%2BTeam%3BBuilding%2Bsecure%2Bapplications." alt="Typing SVG" />
 
 </div>
@@ -17,7 +17,6 @@ Olá! Sou o Kleberson Pastori, profissionalizando minha paixão por Engenharia d
 
 Atualmente, meu foco absoluto é atuar na cultura DevSecOps, construindo e protegendo aplicações corporativas. Utilizo a mentalidade de defesa (Blue Team) para arquitetar automações em Python, integrar segurança em esteiras de desenvolvimento e fortalecer perímetros digitais, especialmente em ambientes Cloud.
 
-Python
 class KlebersonPastori:
     role       = "Software Engineer | DevSecOps"
     location   = "Piracicaba, SP — Brasil"
@@ -26,6 +25,7 @@ class KlebersonPastori:
     cert       = "Google Cybersecurity Professional (Coursera, 2025)"
     status     = "Aberto a novos desafios em DevSecOps e Desenvolvimento"
     motto      = "A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."
+
 $ cat sobre_mim.txt
 ⚙️ Desenvolvimento & DevSecOps: Criação de ferramentas de segurança (CLI), integração de APIs, automação de rotinas de SOC e análise de código com Python.
 
@@ -123,6 +123,5 @@ $ cat certifications.txt
 "A tecnologia é a ferramenta, a lógica é o caminho e a segurança é a prioridade."
 
 </div>
-
 
 http://googleusercontent.com/interactive_content_block/0
