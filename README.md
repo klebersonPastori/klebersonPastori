@@ -113,18 +113,6 @@ Resposta a DDoS estruturada
 
 ---
 
-### `$ cat stats.sh`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=klebersonPastori&show_icons=true&theme=chartreuse-dark" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebersonPastori&layout=compact&theme=chartreuse-dark" />
-
-</div>
-
----
-
 ### `$ cat certifications.txt`
 
 - 💻 DevOps & Agile — FIAP (2026)  
