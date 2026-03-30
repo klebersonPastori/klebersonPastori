@@ -1,167 +1,128 @@
+Markdown
 <div align="center">
 
-```
+```text
 ██╗  ██╗██╗     ███████╗██████╗ ███████╗██████╗ ███████╗ ██████╗ ███╗   ██╗
 ██║ ██╔╝██║     ██╔════╝██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗████╗  ██║
 █████╔╝ ██║     █████╗  ██████╔╝███████╗██║  ██║███████╗██║   ██║██╔██╗ ██║
 ██╔═██╗ ██║     ██╔══╝  ██╔══██╗╚════██║██║  ██║╚════██║██║   ██║██║╚██╗██║
 ██║  ██╗███████╗███████╗██████╔╝███████║██████╔╝███████║╚██████╔╝██║ ╚████║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+Analyst+;Cloud+Security+%7C+AWS;Python+Automation+%7C+DevSecOps;Always+learning%2C+always+defending." alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kleberson-pastori-5b11b3119)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00FF88?style=for-the-badge&logo=googlechrome&logoColor=black)](http://meu.curriculo.kleber.s3-website-us-east-1.amazonaws.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kleber-pastori@hotmail.com)
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D22%26pause%3D1000%26color%3D00FF88%26center%3Dtrue%26vCenter%3Dtrue%26width%3D650%26lines%3DSoftware%2BEngineer%2B%257C%2BDevSecOps%3BCloud%2BSecurity%2B%257C%2BAWS%3BPython%2BAutomation%2B%257C%2BBlue%2BTeam%3BBuilding%2Bsecure%2Bapplications." alt="Typing SVG" />
 
 </div>
 
----
+$ whoami
+Olá! Sou o Kleberson Pastori, profissionalizando minha paixão por Engenharia de Software e Segurança. Em transição de carreira contínua — unindo a visão estratégica de ex-gerente geral com a execução técnica em desenvolvimento seguro e infraestrutura.
 
-## `$ whoami`
+Atualmente, meu foco absoluto é atuar na cultura DevSecOps, construindo e protegendo aplicações corporativas. Utilizo a mentalidade de defesa (Blue Team) para arquitetar automações em Python, integrar segurança em esteiras de desenvolvimento e fortalecer perímetros digitais, especialmente em ambientes Cloud.
 
-Olá! Sou o **Kleberson Pastori**, profissionalizando em Cibersegurança. Em transição de carreira — unindo a **visão estratégica de ex-gerente geral** com a execução técnica em segurança defensiva e engenharia de software. Focando em DEV/SEC/OPS.
-
-Atualmente atuo na linha de frente da cibersegurança corporativa na **Hyundai AutoEver**, em operações de defesa (Blue Team), administração de redes e automações para fortalecer perímetros digitais. Focando e estudando para atuar em DEV/SEC/OPS.
-
-```python
+Python
 class KlebersonPastori:
-    role       = "Cybersecurity Analyst | DEV/SEC/OPS"
-    company    = "Hyundai AutoEver"
+    role       = "Software Engineer | DevSecOps"
     location   = "Piracicaba, SP — Brasil"
-    focus      = ["Software Engenieer", "Cloud Security", "SOC Operations", "Python Automation"]
-    studying   = ["AWS Solutions Architect", "Eng. de Software @ Estácio"]
+    focus      = ["DevSecOps", "Software Engineering", "Python Automation", "Cloud Security"]
+    studying   = ["Engenharia de Software @ Estácio", "AWS Solutions Architect"]
     cert       = "Google Cybersecurity Professional (Coursera, 2025)"
-    open_to    = "Oportunidades como Analista de cybersecurity e DEV."
+    status     = "Aberto a novos desafios em DevSecOps e Desenvolvimento"
     motto      = "A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."
-```
+$ cat sobre_mim.txt
+⚙️ Desenvolvimento & DevSecOps: Criação de ferramentas de segurança (CLI), integração de APIs, automação de rotinas de SOC e análise de código com Python.
 
----
+🛡️ Segurança Defensiva: Background prático em análise de tráfego, gerenciamento de firewalls (NGFW), VPNs e resposta a incidentes.
 
-## `$ cat sobre_mim.txt`
+☁️ Cloud: Infraestrutura escalável e segura na AWS (EC2, S3, Lambda, Amplify).
 
-- 🛡️ **Cibersegurança:** Gerenciamento de firewalls NGFW via FMC, VPNs, análise de tráfego TCP/IP e OSI, segurança de endpoints, focando em DEV/SEC/OPS.
-- ⚙️ **Automação Blue Team:** Scripts Python para troubleshooting de redes, análise de logs e consumo de APIs REST
-- ☁️ **Cloud:** AWS EC2, S3, Lambda, Amplify — infraestrutura segura e escalável
-- 🎓 **Acadêmico:** Cursando Engenharia de Software (3º semestre) na Estácio
-- 📜 **Certificação:** Google Cybersecurity Professional Certificate (2025)
-- 🐧 **Entusiasta Open Source:** Usuário e explorador do ecossistema Linux
-- 📍 Baseado em Piracicaba – SP, Brasil
+🎓 Acadêmico: Cursando Engenharia de Software na Estácio.
 
----
+📜 Certificação: Google Cybersecurity Professional Certificate (2025).
 
-## `$ cat skills.txt`
+🐧 Entusiasta Open Source: Usuário e explorador do ecossistema Linux.
 
+📍 Baseado em Piracicaba – SP, Brasil.
+
+$ cat skills.txt
 <div align="center">
 
-**🔐 Security & Infrastructure**
+⚙️ Dev & Automation
 
-![NGFW](https://img.shields.io/badge/NGFW%2FFMC-00FF88?style=flat-square)
-![VPN](https://img.shields.io/badge/VPN_Admin-00FF88?style=flat-square)
-![Blue Team](https://img.shields.io/badge/Blue_Team-0052CC?style=flat-square)
-![SOC](https://img.shields.io/badge/SOC_Operations-0052CC?style=flat-square)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS_Suricata-0052CC?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-0052CC?style=flat-square)
-![NIST](https://img.shields.io/badge/NIST_CSF-0052CC?style=flat-square)
-![Windows Server](https://img.shields.io/badge/Windows_Server_AD-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+🔐 Security & DevSecOps
 
-**☁️ Cloud & Networking**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP_%7C_OSI-lightgrey?style=flat-square)
-
-**⚙️ Dev & Automation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-00B0FF?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+☁️ Cloud & Infrastructure
 
 </div>
 
----
+$ ls projetos/
+🛡️ CSIRT WebSec Phishing Scanner
+Ferramenta robusta via CLI desenvolvida em Python para triagem de URLs suspeitas e Threat Intelligence. Conta com análise de homoglyphs, validação de certificados TLS, extração de heurísticas JavaScript e integração com a API do VirusTotal. Exporta relatórios executivos (HTML/JSON).
 
-## `$ ls projetos/`
+Python DevSecOps Automation Threat Intel
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 [Active Directory Lab na AWS](https://github.com/klebersonPastori/meus-projetos-praticos)
-Laboratório em nuvem com **EC2 + Windows Server** como Domain Controller, DNS interno, usuários e GPOs para estudo de superfície de ataque em AD.
+🏢 Active Directory Lab na AWS
+Laboratório em nuvem com EC2 + Windows Server como Domain Controller, DNS interno, usuários e GPOs para estudo de infraestrutura e identidade.
 
-`AWS EC2` `Windows Server` `Active Directory` `DNS`
+AWS EC2 Windows Server Cloud Security
 
 </td>
 <td width="50%">
 
-### 🔍 [Cyber Malicious File Analyzer](https://github.com/klebersonPastori/meus-projetos-praticos)
-Scanner CLI em **Python** para varredura de diretórios, identificando extensões potencialmente maliciosas como apoio a análises forenses.
+🔍 Cyber Malicious File Analyzer
+Scanner CLI em Python para varredura de diretórios, identificando extensões potencialmente maliciosas como apoio a análises forenses.
 
-`Python` `CLI` `Threat Detection` `Forensics`
+Python CLI Threat Detection
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🖥️ [Network Tools GUI](https://github.com/klebersonPastori/meus-projetos-praticos)
-Aplicativo desktop em **Python + PySide6** para execução visual e assíncrona de comandos de rede (Ping, Tracert, Netstat, NSLookup).
+🖥️ Network Tools GUI
+Aplicativo desktop em Python + PySide6 para execução visual e assíncrona de comandos de rede (Ping, Tracert, Netstat, NSLookup).
 
-`Python` `PySide6` `Networking` `Async`
+Python PySide6 Software Engineering
 
 </td>
 <td width="50%">
 
-### 📋 [Incident Report — NIST CSF](https://github.com/klebersonPastori/meus-projetos-praticos)
-Análise e resposta a incidente de **DDoS/ICMP Flood** com plano de mitigação estruturado segundo o NIST Cybersecurity Framework.
+📋 Incident Report — NIST CSF
+Análise e resposta a incidente de DDoS/ICMP Flood com plano de mitigação estruturado segundo o framework global do NIST.
 
-`NIST CSF` `DDoS` `Incident Response` `Blue Team`
+NIST CSF Incident Response Blue Team
 
 </td>
 </tr>
 </table>
 
----
-
-## `$ cat stats.sh`
-
+$ cat stats.sh
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=klebersonPastori&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00cfff&text_color=c9d1d9" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klebersonPastori&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
 
-<br/>
-
 </div>
 
----
+$ cat certifications.txt
+💻 DEVOPS & Agile Culture - FIAP (2026)
 
-## `$ cat certifications.txt`
+🏆 Google Cybersecurity Professional Certificate — Coursera / Google (2025)
 
-- 💻 **DEVOPS & Agile Culture** - FIAP (2026)
-- 🏆 **Google Cybersecurity Professional Certificate** — Coursera / Google (2025)
-- ☁️ **AWS Cloud Practitioner (CLF-02)** — Preparatório concluído
-- 🐍 **Python Fundamentals & Cibersegurança com Python** — Santander / DIO
-- 🌐 **Fundamentos de Redes TCP/IP** — Teoria e Prática
-- 🤖 **IA Aplicada & Prompt Engineering** — DIO
+☁️ AWS Cloud Practitioner (CLF-02) — Preparatório concluído
 
----
+🐍 Python Fundamentals & Cibersegurança com Python — Santander / DIO
+
+🌐 Fundamentos de Redes TCP/IP — Teoria e Prática
+
+🤖 IA Aplicada & Prompt Engineering — DIO
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=klebersonPastori.klebersonPastori&color=00ff88)
-
-*"A tecnologia é a ferramenta, a lógica é o caminho e a segurança é a prioridade."*
+"A tecnologia é a ferramenta, a lógica é o caminho e a segurança é a prioridade."
 
 </div>
+
+
+http://googleusercontent.com/interactive_content_block/0
