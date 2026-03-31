@@ -1,92 +1,116 @@
-██╗  ██╗██╗     ███████╗██████╗ ███████╗██████╗ 
-██║ ██╔╝██║     ██╔════╝██╔══██╗██╔════╝██╔══██╗
-█████╔╝ ██║     █████╗  ██████╔╝█████╗  ██████╔╝
-██╔═██╗ ██║     ██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗
-██║  ██╗███████╗███████╗██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
+# 👨‍💻 Kleberson Pastori
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineering+%7C+Backend;Python+Automation+%7C+C%23+.NET;Building+scalable+solutions;DevSecOps+%7C+Cloud" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+C%23+.NET;Automation+%7C+DevSecOps;Building+real+solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### `$ whoami`
+## 🚀 Sobre mim
 
-Olá! Sou o **Kleberson Pastori**, estudante de Engenharia de Software apaixonado por resolver problemas reais através de código.  
-Com uma visão sistêmica adquirida na gestão de operações, meu foco atual é o **Desenvolvimento Back-end, Automação e Integração de Sistemas**, construindo ferramentas eficientes e seguras desde a primeira linha de código.
+Sou estudante de **Engenharia de Software** com foco em **Back-end, Automação e Integração de Sistemas**.  
+Tenho experiência prática com infraestrutura, segurança e desenvolvimento, o que me permite construir soluções **eficientes, escaláveis e seguras**.
 
-```python
-class KlebersonPastori:
-    role       = "Software Developer | Automation"
-    location   = "Piracicaba, SP — Brasil"
-    focus      = ["Backend Development", "Python", "C# (.NET)", "Software Engineering"]
-    studying   = ["Engenharia de Software @ Estácio", "DevOps & Agile Culture"]
-    cert       = "Google Cybersecurity Professional"
-    status     = "Aberto a oportunidades (Estágio / Jr)"
-    motto      = "Escrevendo código limpo, automatizando processos e construindo soluções."
+- 💻 Backend & Automação com Python  
+- 🖥️ Desenvolvimento Desktop com C# (.NET)  
+- 🛡️ DevSecOps e boas práticas de segurança  
+- ⚙️ Integração de APIs e processamento de dados  
 
-$ cat sobre_mim.txt
-💻 Dev Back-end & Automação: Python, manipulação de dados, consumo de APIs REST (JSON).
+📍 Piracicaba - SP, Brasil  
+📫 **Aberto a oportunidades (Estágio / Júnior)**  
 
-🖥️ Aplicações Desktop / GUI: Desenvolvimento de interfaces com C# (.NET) / Windows Forms e PySide6.
+---
 
-⚙️ Engenharia de Software: Lógica de programação, Orientação a Objetos (POO), versionamento com Git/GitHub.
+## 🧠 Stack Tecnológica
 
-🛡️ DevSecOps: Visão de segurança aplicada ao ciclo de vida do software (SDLC).
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp)
 
-🎓 Engenharia de Software — Estácio (3º Semestre).
+### ⚙️ Backend & Automação
+![APIs](https://img.shields.io/badge/APIs_REST-0d1117?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-0d1117?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-0d1117?style=for-the-badge)
 
-$ ls projetos_destaque/
-⚙️ Ferramenta de Automação Back-end (Scanner CLI)
-Ferramenta via linha de comando (CLI) desenvolvida do zero para análise automatizada de arquivos e rotinas.
+### 🖥️ Desktop
+![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-0d1117?style=for-the-badge)
 
-Consumo de APIs REST (Integração com VirusTotal).
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
 
-Tratamento e manipulação de respostas em formato JSON.
+---
 
-Estruturação modular e versionamento rigoroso.
+## 📂 Projetos em Destaque
 
-Python • APIs REST • JSON • Git
+### ⚙️ Scanner CLI (Automação Back-end)
+Ferramenta em Python para análise automatizada de arquivos e rotinas de segurança.
 
-<table>
-<tr>
-<td width="50%">
+- Integração com APIs (VirusTotal)  
+- Processamento de JSON  
+- Estrutura modular  
 
-🖥️ Sistema de Consulta (App Desktop)
-Aplicativo desktop com interface gráfica para otimizar o controle de benefícios corporativos. Manipulação de eventos, processamento de dados e foco na experiência do usuário final.
+**Tech:** Python • APIs REST • JSON  
 
-C# (.NET) • Windows Forms • Lógica
+---
 
-</td>
-<td width="50%">
+### 🖥️ Sistema Desktop (C#)
+Aplicação com interface gráfica para controle de dados corporativos.
 
-🌐 Network Tools (GUI Assíncrona)
-App desktop responsivo que executa comandos nativos do SO em segundo plano. O desafio técnico superado foi a implementação de execução assíncrona (QProcess) para não congelar a interface.
+- Eventos e lógica de interface  
+- Processamento de dados  
+- Experiência do usuário  
 
-Python • PySide6 • Async Programming
+**Tech:** C# • .NET • Windows Forms  
 
-</td>
-</tr>
-</table>
+---
 
-$ cat certifications.txt
-💻 DevOps & Agile Culture — FIAP (2026)
+### 🌐 Network Tools (Async GUI)
+Aplicação desktop com execução assíncrona sem travar a interface.
 
-🗄️ Fundamentos de Banco de Dados e Orientação a Objetos — DIO
+- Execução com QProcess  
+- Interface responsiva  
+- Operações de rede  
 
-🏆 Google Cybersecurity Professional (2025)
+**Tech:** Python • PySide6 • Async  
 
-☁️ AWS Cloud Practitioner — Preparatório
+---
 
-🐍 Python Fundamentals & Cibersegurança — DIO
+## 📚 Formação & Certificações
+
+- 🎓 Engenharia de Software — Estácio (3º semestre)  
+- 🏆 Google Cybersecurity Professional (2025)  
+- ☁️ AWS Cloud Practitioner — em preparação  
+- 💻 DevOps & Agile Culture — FIAP  
+- 🐍 Python & Cibersegurança — DIO  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-"A tecnologia é a ferramenta, a lógica é o caminho."
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
-http://googleusercontent.com/interactive_content_block/0
+---
+
+## 📫 Contato
+
+- 📧 kleber-pastori@hotmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/kleberson-pastori-5b11b3119  
+
+---
+
+<div align="center">
+
+### ⚡ "Código limpo, processos automatizados e soluções inteligentes."
+
+</div>
