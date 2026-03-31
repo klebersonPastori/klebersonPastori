@@ -1,15 +1,13 @@
-```
 ██╗  ██╗██╗     ███████╗██████╗ ███████╗██████╗ 
 ██║ ██╔╝██║     ██╔════╝██╔══██╗██╔════╝██╔══██╗
 █████╔╝ ██║     █████╗  ██████╔╝█████╗  ██████╔╝
 ██╔═██╗ ██║     ██╔══╝  ██╔══██╗██╔══╝  ██╔══██╗
 ██║  ██╗███████╗███████╗██████╔╝███████╗██║  ██║
 ╚═╝  ╚═╝╚══════╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+DevSecOps;Cloud+Security+%7C+AWS;Python+Automation+%7C+Blue+Team;Building+secure+applications." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineering+%7C+Backend;Python+Automation+%7C+C%23+.NET;Building+scalable+solutions;DevSecOps+%7C+Cloud" />
 
 </div>
 
@@ -17,115 +15,78 @@
 
 ### `$ whoami`
 
-Olá! Sou o **Kleberson Pastori**, profissionalizando minha paixão por Engenharia de Software e Segurança.  
-Em transição de carreira — unindo visão estratégica com execução técnica.
-
-Foco em **DevSecOps**, integrando segurança no ciclo de desenvolvimento e ambientes cloud.
+Olá! Sou o **Kleberson Pastori**, estudante de Engenharia de Software apaixonado por resolver problemas reais através de código.  
+Com uma visão sistêmica adquirida na gestão de operações, meu foco atual é o **Desenvolvimento Back-end, Automação e Integração de Sistemas**, construindo ferramentas eficientes e seguras desde a primeira linha de código.
 
 ```python
 class KlebersonPastori:
-    role       = "Software Engineer | DevSecOps"
+    role       = "Software Developer | Automation"
     location   = "Piracicaba, SP — Brasil"
-    focus      = ["DevSecOps", "Software Engineering", "Python Automation", "Cloud Security"]
-    studying   = ["Engenharia de Software @ Estácio", "AWS Solutions Architect"]
-    cert       = "Google Cybersecurity Professional (2025)"
-    status     = "Aberto a oportunidades"
-    motto      = "A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."
-```
+    focus      = ["Backend Development", "Python", "C# (.NET)", "Software Engineering"]
+    studying   = ["Engenharia de Software @ Estácio", "DevOps & Agile Culture"]
+    cert       = "Google Cybersecurity Professional"
+    status     = "Aberto a oportunidades (Estágio / Jr)"
+    motto      = "Escrevendo código limpo, automatizando processos e construindo soluções."
 
----
+$ cat sobre_mim.txt
+💻 Dev Back-end & Automação: Python, manipulação de dados, consumo de APIs REST (JSON).
 
-### `$ cat sobre_mim.txt`
+🖥️ Aplicações Desktop / GUI: Desenvolvimento de interfaces com C# (.NET) / Windows Forms e PySide6.
 
-- ⚙️ Dev & DevSecOps: automação, APIs, CLI tools  
-- 🛡️ Segurança: firewall, VPN, análise de tráfego, incident response  
-- ☁️ Cloud: AWS (EC2, S3, Lambda)  
-- 🎓 Engenharia de Software — Estácio  
-- 📜 Google Cybersecurity Professional  
-- 🐧 Linux / Open Source  
+⚙️ Engenharia de Software: Lógica de programação, Orientação a Objetos (POO), versionamento com Git/GitHub.
 
----
+🛡️ DevSecOps: Visão de segurança aplicada ao ciclo de vida do software (SDLC).
 
-### `$ cat skills.txt`
+🎓 Engenharia de Software — Estácio (3º Semestre).
 
-<div align="center">
+$ ls projetos_destaque/
+⚙️ Ferramenta de Automação Back-end (Scanner CLI)
+Ferramenta via linha de comando (CLI) desenvolvida do zero para análise automatizada de arquivos e rotinas.
 
-⚙️ Dev & Automation  
-🔐 Security & DevSecOps  
-☁️ Cloud & Infrastructure  
+Consumo de APIs REST (Integração com VirusTotal).
 
-</div>
+Tratamento e manipulação de respostas em formato JSON.
 
----
+Estruturação modular e versionamento rigoroso.
 
-### `$ ls projetos/`
-
-#### 🛡️ CSIRT WebSec Phishing Scanner
-Ferramenta CLI em Python para análise de URLs suspeitas:
-- Heurísticas JS  
-- TLS validation  
-- VirusTotal API  
-- Relatórios HTML/JSON  
-
-`Python • DevSecOps • Threat Intel`
-
----
+Python • APIs REST • JSON • Git
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 Active Directory Lab na AWS
-Infraestrutura com AD, DNS e GPO  
+🖥️ Sistema de Consulta (App Desktop)
+Aplicativo desktop com interface gráfica para otimizar o controle de benefícios corporativos. Manipulação de eventos, processamento de dados e foco na experiência do usuário final.
 
-`AWS • Cloud • Identity`
-
-</td>
-<td width="50%">
-
-### 🔍 Cyber Malicious File Analyzer
-Scanner CLI para análise forense  
-
-`Python • Security`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🖥️ Network Tools GUI
-App desktop com PySide6  
-
-`Python • GUI`
+C# (.NET) • Windows Forms • Lógica
 
 </td>
 <td width="50%">
 
-### 📋 Incident Report — NIST CSF
-Resposta a DDoS estruturada  
+🌐 Network Tools (GUI Assíncrona)
+App desktop responsivo que executa comandos nativos do SO em segundo plano. O desafio técnico superado foi a implementação de execução assíncrona (QProcess) para não congelar a interface.
 
-`Blue Team`
+Python • PySide6 • Async Programming
 
 </td>
 </tr>
 </table>
 
----
+$ cat certifications.txt
+💻 DevOps & Agile Culture — FIAP (2026)
 
-### `$ cat certifications.txt`
+🗄️ Fundamentos de Banco de Dados e Orientação a Objetos — DIO
 
-- 💻 DevOps & Agile — FIAP (2026)  
-- 🏆 Google Cybersecurity Professional (2025)  
-- ☁️ AWS Cloud Practitioner — estudo concluído  
-- 🐍 Python & Cybersecurity — DIO  
-- 🌐 Redes TCP/IP  
-- 🤖 IA & Prompt Engineering  
+🏆 Google Cybersecurity Professional (2025)
 
----
+☁️ AWS Cloud Practitioner — Preparatório
+
+🐍 Python Fundamentals & Cibersegurança — DIO
 
 <div align="center">
 
-**"A tecnologia é a ferramenta, a lógica é o caminho, a segurança é a prioridade."**
+"A tecnologia é a ferramenta, a lógica é o caminho."
 
 </div>
+
+http://googleusercontent.com/interactive_content_block/0
