@@ -14,7 +14,8 @@ Sou estudante de **Engenharia de Software** com foco em **Back-end, Automação 
 Tenho experiência prática com infraestrutura, segurança e desenvolvimento, o que me permite construir soluções **eficientes, escaláveis e seguras**.
 
 - 💻 Backend & Automação com Python  
-- 🖥️ Desenvolvimento Desktop com C# (.NET)  
+- 🖥️ Desenvolvimento Desktop com C# (.NET)
+- 🖥️ Desenvolvimento WEB
 - 🛡️ DevSecOps e boas práticas de segurança  
 - ⚙️ Integração de APIs e processamento de dados  
 
