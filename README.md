@@ -29,6 +29,7 @@ Tenho experiência prática com infraestrutura, segurança e desenvolvimento, o 
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp)
+![Dev Web](https://img.shields.io/badge/DEV%20WEB-0d1117?style=for-the-badge&logo=html5)
 
 ### ⚙️ Backend & Automação
 ![APIs](https://img.shields.io/badge/APIs_REST-0d1117?style=for-the-badge)
