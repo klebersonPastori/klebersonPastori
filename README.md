@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Backend+Developer;Web+Developer;Python+%7C+C%23+.NET;Automation;Building+real+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineering;Backend+%7C+Web+%7C+Automation;Python+%7C+C%23+.NET;Cloud+%7C+Networking+%7C+Security)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,14 +10,16 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Engenharia de Software** com foco em **Back-end, Automação e Integração de Sistemas**.  
-Tenho experiência prática com infraestrutura, segurança e desenvolvimento, o que me permite construir soluções **eficientes, escaláveis e seguras**.
+Estudante de **Engenharia de Software** com experiência prática em desenvolvimento, automação e infraestrutura.
 
-- 💻 Backend & Automação com Python  
-- 🖥️ Desenvolvimento Desktop com C# (.NET)
-- 🖥️ Desenvolvimento WEB
-- 🛡️ DevSecOps e boas práticas de segurança  
-- ⚙️ Integração de APIs e processamento de dados  
+Atuo construindo soluções com foco em organização, eficiência e aplicação prática, explorando também conceitos de redes e cibersegurança no contexto de sistemas reais.
+
+- 💻 Desenvolvimento Back-end com Python  
+- 🖥️ Desenvolvimento Desktop com C# (.NET)  
+- 🌐 Desenvolvimento Web  
+- ⚙️ Automação de processos e integração de APIs  
+- 🌐 Fundamentos de redes e infraestrutura  
+- 🔐 Conceitos de cibersegurança aplicados  
 
 📍 Piracicaba - SP, Brasil  
 📫 **Aberto a oportunidades (Estágio / Júnior)**  
@@ -29,9 +31,9 @@ Tenho experiência prática com infraestrutura, segurança e desenvolvimento, o 
 ### 💻 Linguagens
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp)
-![Dev Web](https://img.shields.io/badge/DEV%20WEB-0d1117?style=for-the-badge&logo=html5)
+![Web](https://img.shields.io/badge/Web-0d1117?style=for-the-badge&logo=html5)
 
-### ⚙️ Backend & Automação
+### ⚙️ Desenvolvimento & Automação
 ![APIs](https://img.shields.io/badge/APIs_REST-0d1117?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-0d1117?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-0d1117?style=for-the-badge)
@@ -40,8 +42,12 @@ Tenho experiência prática com infraestrutura, segurança e desenvolvimento, o 
 ![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet)
 ![Windows Forms](https://img.shields.io/badge/Windows_Forms-0d1117?style=for-the-badge)
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Infraestrutura
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
+![Networking](https://img.shields.io/badge/Networking-0d1117?style=for-the-badge)
+
+### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
 
@@ -49,10 +55,10 @@ Tenho experiência prática com infraestrutura, segurança e desenvolvimento, o 
 
 ## 📂 Projetos em Destaque
 
-### ⚙️ Scanner CLI (Automação Back-end)
-Ferramenta em Python para análise automatizada de arquivos e rotinas de segurança.
+### ⚙️ Scanner CLI (Automação)
+Ferramenta em Python para análise automatizada de arquivos e dados.
 
-- Integração com APIs (VirusTotal)  
+- Integração com APIs externas  
 - Processamento de JSON  
 - Estrutura modular  
 
@@ -61,34 +67,35 @@ Ferramenta em Python para análise automatizada de arquivos e rotinas de seguran
 ---
 
 ### 🖥️ Sistema Desktop (C#)
-Aplicação com interface gráfica para controle de dados corporativos.
+Aplicação com interface gráfica para manipulação e controle de dados.
 
-- Eventos e lógica de interface  
+- Lógica de interface e eventos  
 - Processamento de dados  
-- Experiência do usuário  
+- Interface amigável  
 
 **Tech:** C# • .NET • Windows Forms  
 
 ---
 
 ### 🌐 Network Tools (Async GUI)
-Aplicação desktop com execução assíncrona sem travar a interface.
+Aplicação desktop para execução de comandos de rede.
 
-- Execução com QProcess  
+- Execução assíncrona  
 - Interface responsiva  
-- Operações de rede  
+- Ferramentas de diagnóstico  
 
-**Tech:** Python • PySide6 • Async  
+**Tech:** Python • PySide6 • Async • Networking  
 
 ---
 
 ## 📚 Formação & Certificações
 
-- 🎓 Engenharia de Software — Estácio (3º semestre)  
-- 🏆 Google Cybersecurity Professional (2025)  
+- 🎓 Engenharia de Software — Estácio (em andamento)  
+- 🏆 Google Cybersecurity Professional  
 - ☁️ AWS Cloud Practitioner — em preparação  
-- 💻 DevOps & Agile Culture — FIAP  
-- 🐍 Python & Cibersegurança — DIO  
+- 💻 DevOps & Agile Culture — FIAP
+- 🌐 Cibersegurança - FIAP 
+- 🐍 Python — DIO  
 
 ---
 
@@ -101,6 +108,6 @@ Aplicação desktop com execução assíncrona sem travar a interface.
 
 <div align="center">
 
-### ⚡ "Código limpo, processos automatizados e soluções inteligentes."
+### ⚡ "Soluções bem estruturadas, código organizado e aprendizado contínuo."
 
 </div>
