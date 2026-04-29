@@ -2,104 +2,118 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Software+Engineering;Backend+%7C+Web+%7C+Automation;Python+%7C+C%23+.NET;Cloud+%7C+Networking+%7C+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Technology+%7C+Data+%7C+Automation;Building+Solutions+That+Drive+Efficiency;Python+%7C+APIs+%7C+Cloud;Problem+Solving+%7C+Continuous+Improvement)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Estudante de **Engenharia de Software** com experiência prática em desenvolvimento, automação e infraestrutura.
+Software Engineering student with hands-on experience building solutions focused on **efficiency, automation and data-driven decision making**.
 
-Atuo construindo soluções com foco em organização, eficiência e aplicação prática, explorando também conceitos de redes e cibersegurança no contexto de sistemas reais.
+I develop systems and processes that **reduce manual effort, improve operational performance and solve real-world problems**.
 
-- 💻 Desenvolvimento Back-end com Python  
-- 🖥️ Desenvolvimento Desktop com C# (.NET)  
-- 🌐 Desenvolvimento Web  
-- ⚙️ Automação de processos e integração de APIs  
-- 🌐 Fundamentos de redes e infraestrutura  
-- 🔐 Conceitos de cibersegurança aplicados  
+My interests are centered on **technology applied to product, data and continuous improvement**.
 
-📍 Piracicaba - SP, Brasil  
-📫 **Aberto a oportunidades (Estágio / Júnior)**  
+- ⚙️ Process automation and efficiency optimization  
+- 📊 Data analysis to support decision-making  
+- 🔗 System integration through APIs  
+- 🧠 Problem solving with technology  
+- 🤝 Collaboration across different areas  
+
+📍 Brazil  
+📫 Open to internship and junior opportunities  
 
 ---
 
-## 🧠 Stack Tecnológica
+## 💡 How I Create Value
 
-### 💻 Linguagens
+- Reduce manual work through automation  
+- Use data to guide decisions and improvements  
+- Build practical solutions for real business problems  
+- Focus on efficiency, scalability and organization  
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Core
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp)
-![Web](https://img.shields.io/badge/Web-0d1117?style=for-the-badge&logo=html5)
-
-### ⚙️ Desenvolvimento & Automação
 ![APIs](https://img.shields.io/badge/APIs_REST-0d1117?style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-0d1117?style=for-the-badge)
+
+### ⚙️ Development & Automation
 ![Automation](https://img.shields.io/badge/Automation-0d1117?style=for-the-badge)
+![JSON](https://img.shields.io/badge/Data_Processing-0d1117?style=for-the-badge)
 
-### 🖥️ Desktop
-![.NET](https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-0d1117?style=for-the-badge)
-
-### ☁️ Cloud & Infraestrutura
+### ☁️ Cloud & Systems
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux)
-![Networking](https://img.shields.io/badge/Networking-0d1117?style=for-the-badge)
 
-### 🔧 Ferramentas
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Featured Projects
 
-### ⚙️ Scanner CLI (Automação)
-Ferramenta em Python para análise automatizada de arquivos e dados.
+### ⚙️ Automation Scanner
+Solution developed to automate data analysis and reduce manual workload in repetitive processes.
 
-- Integração com APIs externas  
-- Processamento de JSON  
-- Estrutura modular  
+- API integration  
+- Structured data processing  
+- Automation pipeline  
 
-**Tech:** Python • APIs REST • JSON  
-
----
-
-### 🖥️ Sistema Desktop (C#)
-Aplicação com interface gráfica para manipulação e controle de dados.
-
-- Lógica de interface e eventos  
-- Processamento de dados  
-- Interface amigável  
-
-**Tech:** C# • .NET • Windows Forms  
+**Impact:** Improved efficiency and reduced operational effort  
 
 ---
 
-### 🌐 Network Tools (Async GUI)
-Aplicação desktop para execução de comandos de rede.
+### 🖥️ Desktop Management System
+Application designed to organize and manage internal data efficiently.
 
-- Execução assíncrona  
-- Interface responsiva  
-- Ferramentas de diagnóstico  
+- Data processing and organization  
+- User-focused interface  
+- System optimization  
 
-**Tech:** Python • PySide6 • Async • Networking  
-
----
-
-## 📚 Formação & Certificações
-
-- 🎓 Engenharia de Software — Estácio (em andamento)  
-- 🏆 Google Cybersecurity Professional  
-- ☁️ AWS Cloud Practitioner — em preparação  
-- 💻 DevOps & Agile Culture — FIAP
-- 🌐 Cibersegurança - FIAP 
-- 🐍 Python — DIO  
+**Impact:** Better data visibility and faster operations  
 
 ---
 
-## 📫 Contato
+### 🌐 Network & Diagnostic Tools
+Tool for real-time diagnostics and system interaction.
+
+- Asynchronous execution  
+- Real-time data handling  
+- System interaction  
+
+**Impact:** Faster analysis and improved troubleshooting  
+
+---
+
+### ☁️ Cloud Infrastructure (AWS)
+Cloud environment focused on scalability and reliability.
+
+- Structured deployment  
+- Cloud services integration  
+- Performance optimization  
+
+**Impact:** Scalable and stable infrastructure  
+
+---
+
+## 📚 Education & Certifications
+
+- 🎓 Software Engineering — in progress  
+- 🏆 Google Cybersecurity Professional Certificate  
+- ☁️ AWS Cloud Practitioner — in progress  
+- ⚙️ DevOps & Agile Culture — FIAP  
+- 🐍 Python & Programming Fundamentals  
+
+---
+
+## 📫 Contact
 
 - 📧 kleber-pastori@hotmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/kleberson-pastori-5b11b3119  
@@ -108,6 +122,6 @@ Aplicação desktop para execução de comandos de rede.
 
 <div align="center">
 
-### ⚡ "Soluções bem estruturadas, código organizado e aprendizado contínuo."
+### ⚡ High performance solutions. Real impact. Continuous evolution.
 
 </div>
