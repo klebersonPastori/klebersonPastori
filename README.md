@@ -109,7 +109,10 @@ Cloud environment focused on scalability and reliability.
 - 🏆 Google Cybersecurity Professional Certificate  
 - ☁️ AWS Cloud Practitioner — in progress  
 - ⚙️ DevOps & Agile Culture — FIAP  
-- 🐍 Python & Programming Fundamentals  
+- 🐍 Python & Programming Fundamentals
+- 🐧Linux fundamentals
+- 🌐 Web development
+- 🤖 Generative AI
 
 ---
 
